@@ -1,5 +1,5 @@
 # IF-YOLO
-**IF-YOLO: Illumination-Invariant Traffic Sign Detection for Traffic Management Systems**
+**Illumination-Invariant Traffic Sign Detection for Autonomous Driving Under Adverse Lighting Conditions**
 
 ## Contents
 
