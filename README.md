@@ -15,5 +15,8 @@ Provides an overview of the DITS dataset, including the number of targets of dif
 ![Detection Visualization](./visualization.png)  
 Shows detection results from IF-YOLO, demonstrating its capability to handle challenging low-light traffic sign scenarios.
 
+### 🎥 Detection Process Demo Video
+![IF-YOLO Detection Demo](./Running%20video.mp4)
+
 ## 🔗 Project Page & Code
 The code will be released soon
